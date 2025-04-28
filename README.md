@@ -1,2 +1,2 @@
 # smart-job-test
-Prueba tecnica en Java para Smart Job
+Prueba técnica en Java para Smart Job
